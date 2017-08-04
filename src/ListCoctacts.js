@@ -11,7 +11,7 @@ class ListContacts extends Component {
   
   state = {
     query: ''
-  }
+  };
 
   render() {
     let showingContacts;
